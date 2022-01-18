@@ -182,7 +182,7 @@ To use the repo and run inferences, please follow the guidelines below
 
 - Cloning the Repository: 
 
-        $ git clone https://github.com/AviTewari/Lake-Ice-Monitoring.git
+        $ git clone https://github.com/vishesh71/Lake-Ice-Monitoring.git
         
 - Entering the directory: 
 
