@@ -206,21 +206,6 @@ To use the repo and run inferences, please follow the guidelines below
   
   <td>
   
-Rishikesh S
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/53835355?v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
-</p>
-<p align="center">
-<a href = "https://github.com/rishusiva"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/rishikesh-sivakumar-1a166a18b/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-<td>
-
 Vishesh Kumar 
 
 <p align="center">
